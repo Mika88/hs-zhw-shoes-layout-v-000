@@ -24,4 +24,8 @@
 
 /* Positioning Classes */
 
-
+.shoe-archive {
+    box-shadow: 0 3px 10px #333;
+    float: left;
+    width: 66%;
+}
