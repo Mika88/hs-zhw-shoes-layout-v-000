@@ -26,6 +26,7 @@
 .image-shoe-on-grass {
   float: left;
   width: 66.333%;
+  border: 2px;
 }
 .shoe-archive {
     float: left;
