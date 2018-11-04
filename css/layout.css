@@ -36,13 +36,13 @@
 .lady-bugs {
   float: left;
   width: 32%;
-  border: 2%;
+  margin-right: 2%;
 }
 
 .skaters {
   float: left;
   width: 32%;
-  border: 2%;
+  margin-right : 2%;
 }
 
 .heels {
