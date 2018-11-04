@@ -23,6 +23,9 @@
 }
 
 /* Positioning Classes */
+.shadow {
+  margin-bottom: 20px;
+}
 .image-shoe-on-grass {
   float: left;
   width: 66%;
